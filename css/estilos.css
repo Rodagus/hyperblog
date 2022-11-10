@@ -3,8 +3,11 @@ body {
     font-family: "Arial";
     color: #333;
     font-size: 16px;
+    height: auto;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
 
 }
 #cabecera {
@@ -13,6 +16,7 @@ body {
     color: white;
     margin: 0;
     padding: 0.5em;
+    
 }
 
 #cabecera #tagline {
